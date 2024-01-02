@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang, Cloud Computing**
 
-- 💬 Ask me about **React, Javascript, Java, Node.js, express, API Developement**
+- 💬 Ask me about **React, Javascript, Java, Node.js, express, API Developement, AWS, EC2 instance, Lambda function, Google Cloud Platform, load balancer, Autoscaling**
 
 - 📫 How to reach me **pellissery.n@northeastern.edu**
 
