@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Carpooling Application](https://github.com/neu-mis-info-6150-spring-2023/final-project-group-techsavvy)
 
-- 🌱 I’m currently learning **GoLang, Cloud Computing**
+- 🌱 I’m currently learning **GoLang, Spring, Spring Boot**
 
 - 💬 Ask me about **React, Javascript, Java, Node.js, express, API Developement, AWS, EC2 instance, Lambda function, Google Cloud Platform, load balancer, Autoscaling**
 
