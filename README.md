@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihil Joseph Pellissery</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from United States</h3>
 
 - 🔭 I’m currently working on [One stop data pipeline web application] (https://github.com/neu-mis-info-6150-spring-2023/final-project-group-techsavvy)
 
