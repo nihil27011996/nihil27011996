@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nihil Joseph Pellissery</h1>
 <h3 align="center">A passionate frontend developer from United States</h3>
 
-- 🔭 I’m currently working on [One stop data pipeline web application] (https://github.com/nihil27011996/DataPipe-Insight.git)
+- 🔭 I’m currently working on  <a href="https://github.com/nihil27011996/DataPipe-Insight.git" target="_blank">One stop data pipeline web application</a>
 
 - 🌱 I’m currently learning **GoLang, Spring, Spring Boot**
 
 - 💬 Ask me about **React, Javascript, Java, Node.js, express, API Developement, AWS, EC2 instance, Lambda function, Google Cloud Platform, load balancer, Autoscaling**
 
-- 📫 How to reach me **pellissery.n@northeastern.edu**
+- 📫 How to reach me <a href="mailto:pellissery.n@northeastern.edu">pellissery.n@northeastern.edu</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
