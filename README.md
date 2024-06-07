@@ -9,7 +9,7 @@
 
 - 📫 How to reach me <a href="mailto:pellissery.n@northeastern.edu">pellissery.n@northeastern.edu</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on linkedln:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/nihil-joseph-pellissery/" target="_blank">Nihil Joseph Pellissery</a>
 </p>
