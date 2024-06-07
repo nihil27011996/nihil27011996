@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihil Joseph Pellissery</h1>
-<h3 align="center">A passionate frontend developer from United States</h3>
+<h3 align="center">A passionate software engineer from United States</h3>
 
 - 🔭 I’m currently working on  <a href="https://github.com/nihil27011996/DataPipe-Insight.git" target="_blank">One stop data pipeline web application</a>
 
