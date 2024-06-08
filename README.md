@@ -24,5 +24,6 @@
     <li><a href="https://github.com/nihil27011996/Carpool-Application.git" target="_blank">Carpooling Application</a> - A web application designed to facilitate carpooling, improving travel efficiency and reducing environmental impact.</li>
     <li><a href="https://github.com/nihil27011996/reminder-app.git" target="_blank">Reminder App with Vanilla JS</a> - A simple reminder application built using vanilla JavaScript and implementing OOP concepts.</li>
     <li><a href="https://github.com/nihil27011996/react-reminder-app.git" target="_blank">Reminder App with React and Node.js</a> - An enhanced version of the reminder application featuring a React frontend and Node.js backend.</li>
+    <li><a href="https://github.com/nihil27011996/receipe-app.git" target="_blank">Recipe app integrating third party rest API</a> - A simple recipe application where the user can upload recipe and bookmark liked recipes using classes and OOP concepts </li>
     
 </ul>
